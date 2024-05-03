@@ -3,20 +3,24 @@ import { ArrowRight } from 'lucide-react'
 
 const exampleMessages = [
   {
-    heading: 'Why is Nvidia growing rapidly?',
-    message: 'Why is Nvidia growing rapidly?'
+    heading: 'Can you help me create a Schedule to Study for jee mains',
+    message: 'Can you help me create a Schedule to Study for jee mains'
   },
   {
-    heading: 'Is the Apple Vision Pro worth buying?',
-    message: 'Is the Apple Vision Pro worth buying?'
+    heading: 'Help me revise physics for JEE Mains in one month',
+    message: 'Help me revise physics for JEE Mains in one month'
   },
   {
-    heading: 'How does the Vercel AI SDK work?',
-    message: 'How does the Vercel AI SDK work?'
+    heading:
+      'I dont feel confident enough to score well in JEE Mains. Help me motivate myself.',
+    message:
+      'I dont feel confident enough to score well in JEE Mains. Help me motivate myself.'
   },
   {
-    heading: 'Tesla vs Rivian',
-    message: 'Tesla vs Rivian'
+    heading:
+      'I finished studying thermodynamics. create a short test for me with JEE level questions',
+    message:
+      'I finished studying thermodynamics. create a short test for me with JEE level questions'
   }
 ]
 export function EmptyScreen({
